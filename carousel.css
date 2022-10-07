@@ -101,3 +101,14 @@ iframe {
 	height: 100%;
 	width: 100%;
 }
+
+.carousel-item img{
+  width: 40%;
+  height: 100%;
+
+}
+
+.col-lg-6  iframe{
+  align-items: center;
+  justify-content: center;
+}
